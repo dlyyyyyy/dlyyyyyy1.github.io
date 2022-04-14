@@ -1,6 +1,6 @@
-name: 
-author: 
-url: 
+name: first
+author: dly
+url: https://dlyyyyyy.github.io/dlyyyyyy1.github.io/
 baseurl: 
 resume_site: 
 description: 
@@ -15,8 +15,8 @@ highlighter: rouge
 markdown: kramdown
 comments :
   gitalk :
-    clientID : 
-    clientSecret : 
-    repo : 
-    owner : 
-    admin : 
+    clientID : 2f69e26bd3b554abc2c5
+    clientSecret : c2d6de90bbdb012cb85516fb890c79df390ae468
+    repo : first
+    owner : dlyyyyyy
+    admin : [dlyyyyyy]
